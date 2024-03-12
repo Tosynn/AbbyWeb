@@ -34,9 +34,5 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
-  },
-
-  "ConnectionString": {
-    "DefaultConnection": "Server= DESKTOP-TL70G22;Database= Abby; Trusted_Connection=True;"
   }
 }
